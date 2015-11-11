@@ -1,0 +1,12 @@
+localhost:2112
+
+markdown /blog {
+  template /layouts/posts.html
+}
+
+ext .md
+
+browse 
+
+log access.log
+

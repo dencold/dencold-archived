@@ -1,0 +1,60 @@
+body {
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+.center {
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  color: #FFFFFF;
+  background-color: #000000;
+/*  height: 50px; */
+}
+.header .logo {
+  height: 50px;
+  width: 50px;
+}
+.header .title {
+  max-width: 300px;
+}
+.title h1 {
+  font-size: 20px;
+  margin: 0 0 5px 0;
+}
+.title h2 {
+  font-size: 12px;
+  font-style: italic;
+  margin: 0 0 10px 0;
+}
+
+
+.content {
+  display: flex;
+  justify-content: center;
+  margin: 0 4em;
+}
+
+.post {
+  max-width: 700px;
+  line-height: 1.75;
+  font-size: 17px;
+}
+
+img {
+  max-width: 100%;
+
+  /* just in case, to force correct aspect ratio */
+  height: auto !important;
+}
