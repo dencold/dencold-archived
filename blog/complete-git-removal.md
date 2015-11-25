@@ -215,5 +215,5 @@ I made use of help from the following posts:
 * http://stackoverflow.com/questions/2100907/how-do-i-purge-a-huge-file-from-commits-in-git-history
 * http://git-scm.com/book/ch6-4.html#The-Nuclear-Option%3a-filter-branch
 
-[^1]: http://git-scm.com/book/ch6-4.html#The-Nuclear-Option%3a-filter-branch
+[^1]: https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History#The-Nuclear-Option:-filter-branch
 
