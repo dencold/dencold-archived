@@ -157,13 +157,13 @@ Once everything is finished, let's review the log again:
 ```bash
 $ git log
 commit 39c68f216b073e33220fdc6d658c16cad2999782
-Author: Dennis Coldwell <dennis@pubvest.com>
+Author: Dennis Coldwell
 Date:   Sun Nov 3 11:55:13 2013 -0800
 
     another day, another commit
 
 commit 0b76a5e6081a75305f23675d04e561bc7bb31e85
-Author: Dennis Coldwell <dennis@pubvest.com>
+Author: Dennis Coldwell
 Date:   Sat Nov 2 17:27:53 2013 -0700
 
     work, work
